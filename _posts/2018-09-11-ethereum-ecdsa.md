@@ -9,8 +9,4 @@ excerpt_separator: <!--more-->
 비트코인과 마찬가지로 타원곡선의 Domain Parameter로 secp256k1을 사용한다. 
 이더리움에서 address는 public key의 Hash값의 마지막 20 bytes이다. \[1]: http://ethdocs.org/en/latest/account-management.html?highlight=address#keyfiles
 
-<!--more-->
-
-
-
 [1]: http://ethdocs.org/en/latest/account-management.html?highlight=address#keyfiles
