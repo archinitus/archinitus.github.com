@@ -9,6 +9,8 @@ excerpt_separator: <!--more-->
 
 이더리움에서는 이 ECC 방식을 통해 계정의 개인키(Private Key)와 공개키(Public Key)를 생성합니다. 이때, 생성된 공개키키의 Hash 값의 마지막 20 bytes가 바로 계정 Address가 됩니다. \[1]
 
+<!--more-->
+
 계정과 관련하여 KeyStore파일(UTC) 생성 및 암호화/복호화 원리는 [이 글](https://medium.com/hexlant/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-keystore-%ED%8C%8C%EC%9D%BC-utc-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EC%95%94%ED%98%B8%ED%99%94-%EB%B3%B5%ED%98%B8%ED%99%94-%EC%9B%90%EB%A6%AC-1-2-d417cb605bf) 에서 참고
 
 일반적으로 디지털 서명을 통해 데이터가 누구에게서 보내진 것인지를 검증하는 과정은 다음과 같습니다.
